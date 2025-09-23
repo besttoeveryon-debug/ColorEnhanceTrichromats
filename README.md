@@ -18,5 +18,5 @@ This repository contains the official PyTorch implementation of the paper:
 
 The following figure shows the enhancement results for deuteranomalous trichromats. Our method better preserves fine-grained details (e.g., feather textures, thread separations) compared to the conventional method [12].
 
-![Teaser](assets/teaser.png)
+![Teaser](docs/display.png)
 **Figure:** Enhanced images for deuteranomalous trichromats. From left to right: Original image, our result, result from Yang et al. [12]. The second row shows the simulated perceptions for deuteranomaly.
