@@ -14,3 +14,9 @@ This repository contains the official PyTorch implementation of the paper:
 - **Perceptually-Validated Dataset:** Utilizes a dataset where the enhanced images are optimized based on subjective experiments with color-deficient observers.
 - **Comprehensive Loss Function:** Combines adversarial loss, perceptual loss (VGG-based), color perception loss, and edge loss to guide the model towards high-quality, natural results.
 - **State-of-the-Art Performance:** Outperforms traditional methods in terms of chromatic difference (CD), perceptual color ratio (PCR), and structural similarity (SSIM).
+## 🎯 Qualitative Results
+
+The following figure shows the enhancement results for deuteranomalous trichromats. Our method better preserves fine-grained details (e.g., feather textures, thread separations) compared to the conventional method [12].
+
+![Teaser](assets/teaser.png)
+**Figure:** Enhanced images for deuteranomalous trichromats. From left to right: Original image, our result, result from Yang et al. [12]. The second row shows the simulated perceptions for deuteranomaly.
