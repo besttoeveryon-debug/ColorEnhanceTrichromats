@@ -20,3 +20,42 @@ The following figure shows the enhancement results for deuteranomalous trichroma
 
 ![Teaser](docs/display.png)
 **Figure:** Enhanced images for deuteranomalous trichromats. From left to right: Original image, our result, result from Yang et al. [12]. The second row shows the simulated perceptions for deuteranomaly.
+## 🛠 Installation
+
+1. **Clone this repository:**
+   ```bash
+   git clone https://github.com/your_username/your_repo_name.git
+   cd your_repo_name
+## 📁 Dataset
+
+The dataset used for training and validation can be downloaded from 10.5281/zenodo.17187079
+
+
+The dataset contains 5,910 original RGB images and their corresponding enhanced versions for three conditions:
+- `deutan`: Enhanced for deuteranomaly and deuteranopia.
+- `protan_mild`: Mildly enhanced for protanomaly.
+- `protan_severe`: Severely enhanced for protanopia and some protanomaly.
+
+Please refer to our paper for detailed construction process.
+## 🏋️‍♂️ Training
+
+### Preparing the Dataset
+1. Download the dataset from the link provided above and extract it.
+2. Organize the dataset into the following structure:
+## 📜 Citation
+
+If you use this code or our dataset in your research, please cite our paper:
+
+```bibtex
+@article{he2025enhancing,
+  title={Enhancing Color Image for Anomalous Trichromats: A Deep Learning Approach with Detail Preservation},
+  author={He, Zihao and Ma, Zejun and Ma, Hai and Zhang, Bingkun and Ma, Ruiqing},
+  journal={Journal Name},
+  volume={},
+  pages={},
+  year={2025},
+  publisher={Springer}
+}
+## 📄 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
