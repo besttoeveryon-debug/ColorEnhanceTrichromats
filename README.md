@@ -166,7 +166,7 @@ While our Swin Transformer implementation is original, the architectural concept
 ```
 ## 📄 License
 
-This project is released under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the BSD 2-Clause License - see the [LICENSE](LICENSE) file for full details.
 ## 🙏 Acknowledgments
 
 This research was supported by the Humanities and Social Science Foundation of the Ministry of Education of China (22YJCZH125).
