@@ -85,7 +85,7 @@ python -c "import torch; print('PyTorch version:', torch.__version__); print('CU
 
 ## 📁 Dataset
 
-The dataset used for training and validation can be downloaded from 10.5281/zenodo.17187079
+The dataset used for training and validation can be downloaded from [10.5281/zenodo.17187079](https://zenodo.org/records/17187079)
 
 
 The dataset contains 5,910 original RGB images and their corresponding enhanced versions for three conditions:
